@@ -1,4 +1,4 @@
-# Academic Pages
+<img width="591" height="158" alt="image" src="https://github.com/user-attachments/assets/5a321167-1be1-49b5-9161-6895723d5fcd" /># Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
@@ -13,7 +13,7 @@
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-See more info at https://wbqacademicpages.github.io/
+See more info at https://chbaalthough.github.io/
 
 ## Running locally
 
