@@ -50,8 +50,16 @@ Projects
 
 Related Videos & PPTs
 ======
+* English Go PPT
+[Click here to view the English Go Presentation (PDF)](/English_Go_824PPT.pdf)
+
 * English Go Demo Video
 [Baidu Netdisk Link (Extraction Code: gjhp)](https://pan.baidu.com/s/1TV8o1-WZSwe4gNv27T3_qw?pwd=gjhp)
 
-* PPT
-[Click here to view the English Go Presentation (PDF)](/English_Go_824PPT.pdf)
+* XinXuan ZhiTao PPT
+[Click here to view the XinXuan ZhiTao Presentation (PDF)](/XinXuanZhiTao.pdf)
+
+* XinXuan ZhiTao Demo Video
+[Baidu Netdisk Link (Extraction Code: da9t)](https://pan.baidu.com/s/1kHkeXXWzkNAEbSCLwWnhVA?pwd=da9t)
+
+
