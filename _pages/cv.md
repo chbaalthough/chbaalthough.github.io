@@ -50,4 +50,4 @@ Projects
 
 Related Videos & PPTs
 ======
-* (Add your links or media here if available)
+* ![English Go Showcase](images/English Go展示页面.png)
