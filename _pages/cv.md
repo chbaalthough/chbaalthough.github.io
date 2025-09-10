@@ -53,5 +53,5 @@ Related Videos & PPTs
 * English Go Demo Video
 [Baidu Netdisk Link (Extraction Code: gjhp)](https://pan.baidu.com/s/1TV8o1-WZSwe4gNv27T3_qw?pwd=gjhp)
 
-PPT
-[Baidu Netdisk Link (Extraction Code: qcid)](https://pan.baidu.com/s/1eJlsQtiy3PJOu-DstR_fpw?pwd=qcid)
+* PPT
+[Click here to view the English Go Presentation (PDF)](/English_Go_824PPT.pdf)
