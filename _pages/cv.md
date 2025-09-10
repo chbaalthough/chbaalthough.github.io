@@ -14,7 +14,7 @@ Education
 * Second B.S. in Software Engineering, Peking University, 2023  
 * M.S. The Hong Kong University of Science and Technology (Guangzhou), 2025
 
-  Projects
+Projects
 ======
 * **English Go:**  
   An intelligent vocabulary learning app that breaks the traditional sentence-memorizing paradigm. It customizes story scenarios based on users’ interests and abilities, building a fun, personalized learning bridge. With AI, each word is uniquely tailored for every user. Features include dual-driven interest/ability, scenario-based learning, multimodal content generation for individual/confusing words, scenario-driven story creation, and image-based text generation, helping learners efficiently and enjoyably master English vocabulary.
