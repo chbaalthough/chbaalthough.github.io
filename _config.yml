@@ -22,14 +22,14 @@ repository               : "chbaalthough/chbaalthough.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "照片.jpg"
   name             : "Wang Bingqian"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bwang488@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
