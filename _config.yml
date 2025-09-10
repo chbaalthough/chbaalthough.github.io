@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-CN"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Wang Bingqian / My Experience"
 title_separator          : "-"
-name                     : &name "Wang Bingwian"
+name                     : &name "Wang Bingqian"
 description              : &description "personal description"
 url                      : https://chbaalthough.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "chbaalthough/chbaalthough.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wang Bingqian"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
